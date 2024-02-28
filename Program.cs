@@ -1,4 +1,11 @@
-﻿namespace Sorting_an_array
+﻿/*
+Author: Janhavi Kharmale
+Date: 02/28/2024
+Comments: This C# Console Application code demonstrates the
+    Selection Sort. 
+*/
+
+namespace Sorting_an_array
 {
     internal class Program
     {
